@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="orenge">#E13600</color>
+    <color name="orengeDrak">#A52800</color>
+    <color name="incomeTextBack">#6FFF75</color>
+    <color name="expenseTextBack">#FF5722</color>
+    <color name="textColor">#222222</color>
+    <color name="green">#00DC09</color>
+
+
+
+    <color name="category1">#E13600</color>
+    <color name="category2">#781D00</color>
+    <color name="category3">#FFEB3B</color>
+    <color name="category4">#FF5722</color>
+    <color name="category5">#5930A1</color>
+    <color name="category6">#5EFF64</color>
+
+
+
+    <color name="bankColor">#00BCD4</color>
+    <color name="cashColor">#FF5722</color>
+    <color name="cartColor">#673AB7</color>
+    <color name="defultColo">#009688</color>
+</resources>
